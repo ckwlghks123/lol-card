@@ -16,6 +16,7 @@ const flags = {
   Taiwan: "/flags/taiwan.svg",
   Hongkong: "/flags/hongkong.png",
   Korea: "/flags/korea.png",
+  China: "/flags/china.png",
 };
 
 const logo = {
@@ -23,6 +24,7 @@ const logo = {
   TPA: "/team/tpa.webp",
   SKT: "/team/skt.webp",
   SAMSUNG: "/team/samsung.webp",
+  IG: "/team/ig.svg",
 };
 
 const positionImg = {

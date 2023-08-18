@@ -302,6 +302,50 @@ const contents = [
     ],
     teamColor: "#074ca1",
   },
+  {
+    id: 7,
+    name: "IG",
+    year: "2018",
+    roster: [
+      {
+        id: 1,
+        position: "TOP",
+        name: "TheShy",
+        country: "Korea",
+      },
+      {
+        id: 2,
+        position: "JGL",
+        name: "Ning",
+        country: "China",
+      },
+      {
+        id: 3,
+        position: "MID",
+        name: "Rookie",
+        country: "Korea",
+      },
+      {
+        id: 4,
+        position: "BOT",
+        name: "JackeyLove",
+        country: "China",
+      },
+      {
+        id: 5,
+        position: "SPT",
+        name: "Baolan",
+        country: "China",
+      },
+      {
+        id: 6,
+        position: "SUB",
+        name: "Duke",
+        country: "Korea",
+      },
+    ],
+    teamColor: "#808080",
+  },
 ];
 
 function reducer(state = contents, action) {
