@@ -14,8 +14,8 @@ const flags = {
   Poland: "/flags/poland.png",
   Belgium: "/flags/belgium.png",
   Taiwan: "/flags/taiwan.svg",
-  Hongkong: "/flags/hongkong.svg",
-  Korea: "/flags/korea.svg",
+  Hongkong: "/flags/hongkong.png",
+  Korea: "/flags/korea.png",
 };
 
 const logo = {
