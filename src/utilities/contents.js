@@ -214,6 +214,94 @@ const contents = [
     ],
     teamColor: "#e4002b",
   },
+  {
+    id: 5,
+    name: "SKT",
+    year: "2016",
+    roster: [
+      {
+        id: 1,
+        position: "TOP",
+        name: "Duke",
+        country: "Korea",
+      },
+      {
+        id: 2,
+        position: "JGL",
+        name: "Bengi",
+        country: "Korea",
+      },
+      {
+        id: 3,
+        position: "MID",
+        name: "Faker",
+        country: "Korea",
+      },
+      {
+        id: 4,
+        position: "BOT",
+        name: "Bang",
+        country: "Korea",
+      },
+      {
+        id: 5,
+        position: "SPT",
+        name: "Wolf",
+        country: "Korea",
+      },
+      {
+        id: 6,
+        position: "SUB",
+        name: "Blank",
+        country: "Korea",
+      },
+    ],
+    teamColor: "#e4002b",
+  },
+  {
+    id: 6,
+    name: "SAMSUNG",
+    year: "2017",
+    roster: [
+      {
+        id: 1,
+        position: "TOP",
+        name: "CuVee",
+        country: "Korea",
+      },
+      {
+        id: 2,
+        position: "JGL",
+        name: "Ambition",
+        country: "Korea",
+      },
+      {
+        id: 3,
+        position: "MID",
+        name: "Crown",
+        country: "Korea",
+      },
+      {
+        id: 4,
+        position: "BOT",
+        name: "Ruler",
+        country: "Korea",
+      },
+      {
+        id: 5,
+        position: "SPT",
+        name: "CoreJJ",
+        country: "Korea",
+      },
+      {
+        id: 6,
+        position: "SUB",
+        name: "Haru",
+        country: "Korea",
+      },
+    ],
+    teamColor: "#074ca1",
+  },
 ];
 
 function reducer(state = contents, action) {
